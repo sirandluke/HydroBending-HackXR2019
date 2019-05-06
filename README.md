@@ -2,6 +2,8 @@
 Repository for HackXR 2019 @ UCSD
 By Aditiya Chandrasker, Alexander Daffara, and Luke Sirand
 
+# Watch a Program Demo
+https://www.youtube.com/watch?v=HlSHZSPdX6Q
 
 # Run the executable
 Download VR Virtual Workspace.exe from repository and run using unity (Oculus compatible only).
